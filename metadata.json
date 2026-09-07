@@ -1,0 +1,6 @@
+{
+  "name": "CinemaMotion Studio Pro Android",
+  "description": "Editor de Vídeo Nativo Android de Alta Performance construído com Jetpack Compose, Media3 Transformer, ExoPlayer e Renderização em Background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
